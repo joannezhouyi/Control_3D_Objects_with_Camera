@@ -1,0 +1,14 @@
+/media/jxgu/github/PyOpenPose/build/CMakeFiles/install.dir
+/media/jxgu/github/PyOpenPose/build/CMakeFiles/list_install_components.dir
+/media/jxgu/github/PyOpenPose/build/CMakeFiles/rebuild_cache.dir
+/media/jxgu/github/PyOpenPose/build/CMakeFiles/install_PyOpenPose.dir
+/media/jxgu/github/PyOpenPose/build/CMakeFiles/install/strip.dir
+/media/jxgu/github/PyOpenPose/build/CMakeFiles/install/local.dir
+/media/jxgu/github/PyOpenPose/build/CMakeFiles/edit_cache.dir
+/media/jxgu/github/PyOpenPose/build/PyOpenPoseLib/CMakeFiles/install.dir
+/media/jxgu/github/PyOpenPose/build/PyOpenPoseLib/CMakeFiles/list_install_components.dir
+/media/jxgu/github/PyOpenPose/build/PyOpenPoseLib/CMakeFiles/rebuild_cache.dir
+/media/jxgu/github/PyOpenPose/build/PyOpenPoseLib/CMakeFiles/PyOpenPose.dir
+/media/jxgu/github/PyOpenPose/build/PyOpenPoseLib/CMakeFiles/edit_cache.dir
+/media/jxgu/github/PyOpenPose/build/PyOpenPoseLib/CMakeFiles/install/strip.dir
+/media/jxgu/github/PyOpenPose/build/PyOpenPoseLib/CMakeFiles/install/local.dir
